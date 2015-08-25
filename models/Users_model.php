@@ -1,9 +1,14 @@
 <?php
+defined('BASEPATH') OR exit('No direct script access allowed');
 
 /*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
+ * O L Y M P U S
+ * 
+ * Ο παρακάτω κώδικας αποτελεί κομμάτι της εφαρμογής “Olympus”. Με την εφαρμογή 
+ * ο προγραμματιστής μπορεί να κατασκευάσει μια διαδικτυακή εφαρμογή και να 
+ * διαχειριστεί τους χρήστες της. Η εφαρμογή είναι γραμμένη πάνω στο 
+ * προγραμματιστικό πλαίσιο CodeIgniter και χρησιμοποιεί ακόμα δημοφιλείς 
+ * πλατφόρμες προγραμματισμού όπως το Jquery και το Bootstrap. 
  */
 
 /**
